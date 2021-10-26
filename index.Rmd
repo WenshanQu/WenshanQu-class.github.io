@@ -15,7 +15,7 @@ I can link to useful things like
 
 I can make an extra page on my site and link to that. Here's my [about](about.html) page
 
-## Add images
+## Add images (from local file)
 
 <img src="images/joker.jpeg" style="width:75%">
 
